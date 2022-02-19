@@ -36,9 +36,11 @@ def speech():
         if 'open discord' in query:
             speaktext('Redirecting you to Discord')
             webbrowser.open('https://discord.com/channels/@me')
+            #You will have to sign in to your account so that this function works
         if 'open twitter' in query:
             speaktext('Redirecting you to Twitter')
             webbrowser.open('https://twitter.com/home')
+            #You will have to sign in to your account so that this function works
         if 'open Github' in query:
             speaktext('Redirecting you to Github')
             webbrowser.open('https://github.com/ItzSlayer09')
