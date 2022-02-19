@@ -36,6 +36,13 @@ def speech():
         if 'open discord' in query:
             speaktext('Redirecting you to Discord')
             webbrowser.open('https://discord.com/channels/@me')
+        if 'open twitter' in query:
+            speaktext('Redirecting you to Twitter')
+            webbrowser.open('https://twitter.com/home')
+        if 'open Github' in query:
+            speaktext('Redirecting you to Github')
+            webbrowser.open('https://github.com/ItzSlayer09')
+            #You can edit the ItzSlayer09 to you account or any of your Repositories.
 def help():
     while True:
         query=getaudio().lower()
