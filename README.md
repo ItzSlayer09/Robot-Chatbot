@@ -13,8 +13,8 @@ Purpose of the project is to help people who are lazy and to disabilities people
 
 Description:
 
-It Has About 3 Buttons 1. Button: Lets chat Button-It Chats with the User and take you to a website if you need it to.
-
+It Has About 3 Buttons
+1. Button: Lets chat Button-It Chats with the User and take you to a website if you need it to.
 2. Button: End Button- It closes the Window.
 4. Button: Help button- It Says, ‘Im Listening’ Then you have to say help It will respond and help you.
 It has a Robot Image and has a Color of ‘Dodger Blue’ 
